@@ -2,7 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Farooq!</h1>
-<h3 align="center">I'm a Gamer, Developer, and Teacher!!</h3>	 
+<h3 align="center">I'm Flutter Developer</h3>	 
+<h4 align="center">Working on Mobile | Web | Desktop Applications</h4>	 
 	 
 ## 🌐 Socials
 <br/>
@@ -44,12 +45,12 @@
 <div align="left">
 <h3 align="left">Languages and Tools:</h3> 
 <br/>
+<code><img height="40" width="40" src="https://img.icons8.com/fluency/480/flutter.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
 <code><img height="40" width="40" src="https://github.com/github/explore/raw/main/topics/css/css.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/480/node-js.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/480/flutter.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
 
 <code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499547650367508/docker.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
@@ -62,14 +63,6 @@
 </details>
 
 <br />
-<br />
-
-## Let's chat
-<br/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/999634986481225768?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/1005732487403675668)
-
-<br/>
 <br/>
 <div align="center">
  <h3>Some Cool Github Stats:</h3> 
