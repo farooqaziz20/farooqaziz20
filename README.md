@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Talha!</h1>
+         width="45" /> I'm Farooq!</h1>
 <h3 align="center">I'm a Gamer, Developer, and Teacher!!</h3>	 
 	 
 ## 🌐 Socials
@@ -80,11 +80,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farooqaziz20&theme=dark" />
 </p>
 
-<h3 align="left">Github@<a href="https://github.com/ztalha6">ztalha6</a></h3> 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farooqaziz20&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farooqaziz20&theme=dark" />
-</p>
 
 [twitter]: https://twitter.com/farooqaziz20
 [instagram]: https://www.instagram.com/farooqaziz20/
