@@ -36,7 +36,6 @@
   <ul>
     <li>💻 I'm self taught programmer</li>
     <li>Expertise in Cross Platform software application development using flutter (Mobile, Web & Desktop Applications) and react native.</b></li>
-  
     <li>Experience in client-server and three-tier application design and implementation.</li>
     <li>In-depth understanding of software development lifecycle (SDLC).</li>
     <li>Strong knowledge of Object-oriented design and programming.</li>
