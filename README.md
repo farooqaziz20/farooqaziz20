@@ -38,10 +38,12 @@
     <li>Expertise in Cross Platform software application development using flutter (Mobile, Web & Desktop Applications) and react native.</b></li>
   
     <li>Experience in client-server and three-tier application design and implementation.</li>
-    <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
-    <li>💬 Ask me anything about <a href="https://discord.com/users/999634986481225768">here</a>! I'm always open to help!</li>
-    <li>😄 Pronouns: **He/Him** 💁‍</li>
-    <li>⚡ Fun fact: Sometimes I got disapear for traveling! :owl:</li>
+    <li>In-depth understanding of software development lifecycle (SDLC).</li>
+    <li>Strong knowledge of Object-oriented design and programming.</li>
+    <li>Expertise in integration of different payment method i.e., Thawani, Pay Pro, Jazz Cash, In App Purchase</li>
+    <li>Expertise in backend development using Node JS using SQL and Non-SQL Databases and also Non SQL Databases Like Firebase, Firestore, Appwrite, MongoDB implementation in Flutter.</li>
+    <li>Expertise in implementation of Local Storages structures in Flutter like Shared Preferences, Hive, GetStorage etc.</li>
+    <li>In addition of this learning and working on Data Science and Deep Learning. </li>
 </ul>
 </div>
 
