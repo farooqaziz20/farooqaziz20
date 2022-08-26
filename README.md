@@ -31,11 +31,13 @@
 # 💫 About Me :
 <br/>
 
+<h4 align="left">Software Application developer with 5+ years of extensive experience of working on different projects (Designing, developing, testing, deployment) with different organizations. Currently working as Mobile Application Developer (Team Lead) at TECHNUPUR PVT LIMITED.</h4> 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Flutter , NodeJS And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
-    <li>🌱 I’m currently learning <b>Flutter, NodeJS<b></li>
+    <li>Expertise in Cross Platform software application development using flutter (Mobile, Web & Desktop Applications) and react native.</b></li>
+  
+    <li>Experience in client-server and three-tier application design and implementation.</li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
     <li>💬 Ask me anything about <a href="https://discord.com/users/999634986481225768">here</a>! I'm always open to help!</li>
     <li>😄 Pronouns: **He/Him** 💁‍</li>
