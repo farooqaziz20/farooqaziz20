@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Farooq!</h1>
 <!-- <h3 align="center">I'm Flutter Developer</h3>	  -->
-<h3 align="center">Software Application Developer @Technupur | Flutter Developer 💙 | Web | Mobile | Desktop | Team Lead | CS Graduate (3.9/4.0 CGPA) | Former Android Lead Google DSC UAF | Programming Enthusiast</h3>	 
+<h3 align="center">Senior Mobile Application Developer @TechSurge | Flutter Developer 💙 | Web | Mobile | Desktop | Team Lead | CS Graduate (3.9/4.0 CGPA) | Former Android Lead Google DSC UAF | Programming Enthusiast</h3>	 
 <!-- <h4 align="center">Mobile Application Development Team Lead @ Technupur Pvt Ltd</h4>
 <h4 align="center">Former Android Lead @Developer Student Club UAF </h4>
 <h5 align="center">Powered By Google</h5> -->
