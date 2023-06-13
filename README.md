@@ -31,7 +31,7 @@
 # 💫 About Me :
 <br/>
 
-<h4 align="left">Software Application developer with 5+ years of extensive experience of working on different projects (Designing, developing, testing, deployment) with different organizations. Currently working as Mobile Application Developer (Team Lead) at TECHNUPUR PVT LIMITED.</h4> 
+<h4 align="left">Software Application developer with 5+ years of extensive experience of working on different projects (Designing, developing, testing, deployment) with different organizations. Currently working as Senior Mobile Application Developer (Team Lead) at TechSurge.</h4> 
 <div>
   <ul>
     <li>💻 I'm self taught programmer</li>
